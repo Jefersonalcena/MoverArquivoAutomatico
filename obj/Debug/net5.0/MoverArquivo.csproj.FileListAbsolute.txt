@@ -1,0 +1,16 @@
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.exe
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.deps.json
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.runtimeconfig.json
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.runtimeconfig.dev.json
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.dll
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\ref\MoverArquivo.dll
+C:\Users\Jeferson\Projeto\MoverArquivo\bin\Debug\net5.0\MoverArquivo.pdb
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.csprojAssemblyReference.cache
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.AssemblyInfoInputs.cache
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.AssemblyInfo.cs
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.dll
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\ref\MoverArquivo.dll
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.pdb
+C:\Users\Jeferson\Projeto\MoverArquivo\obj\Debug\net5.0\MoverArquivo.genruntimeconfig.cache
